@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **kincoy/kincoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +12,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+优秀模板： kautukkundan/Awesome-Profile-README-templates
+统计工具： anuraghazra/github-readme-stats
+模板生成器：GitHub Profile README Generator
 -->
+> updated: 2025-08-15
+- 🌱 I’m currently learning **kubernetes**
+- 📫 How to reach me **kincoyao@gmail.com**
